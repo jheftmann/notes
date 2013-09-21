@@ -1,0 +1,28 @@
+Title: Invisible Interfaces
+----
+Date: 6/20/13
+----
+Tags: lockitron, interface, audio, jam box
+----
+Category: design
+----
+Text:
+
+I backed [Lockitron](http://www.lockitron.com) so I've been getting their email updates as they get closer to their ship date. I was really interested in this, from their most recent email:
+
+>«Now that we're approaching ship date and Lockitron is in production, we're taking some time to polish out the Lockitron experience. Each time you lock and unlock, Lockitron plays a simple tone (don't worry, you can mute Lockitron, too).»
+
+I've also been spending some time around friends' [Jamboxes](https://jawbone.com/speakers/jambox/overview), which give very lush and sonically interesting audio feedback. (I love the low rumble when you turn it on — it's a great showcase for the little unit's bass.)
+
+Incidentally, one of the friends/Jambox owners is a sound designer and commercial musician and he's done some sounds for interfaces. I think this is fascinating and underutilized work.
+
+Audio is a powerful and overlooked interface device, and increasingly non-visual, non-tactile experiences will require some sort of feedback. People laugh at Siri now, but down the road, it's really hard to imagine still navigating the nested levels of a visual interface.
+
+## Helpful to a point
+They seem best suited to physical interfaces rather than digital ones, so far. Our computers are used in too-quiet public spaces, our phones are used in too-loud public spaces, and the sounds get tiresome.
+
+It would be nice, maybe, if a device knew a little about your location and usage and tailored the audio feedback accordingly: ambient noise levels, usage habits for your current location, your device's speaker volume, how many times you've already heard the feedback today, if you're a new user that needs the assistance still – these are all good indicators of when audio interfaces are useful and when they're annoying.
+
+----
+Footnotes:
+1. It's also great that they put the sounds online. (That being said, I hope that the final audio used by Lockitron is a lot better than what they «left on the cutting room floor.») [Hear them on Soundcloud](https://soundcloud.com/lockitron/lockitron-bleeps-bloops)

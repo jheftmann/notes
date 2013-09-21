@@ -1,0 +1,8 @@
+# Let's Blow Some Stuff Up
+
+>"Seven years ago, when I served as creative director of WIRED, I practiced something called Wrong Theory: Every page we produced had to contain some element that violated the conventions of traditional magazine design. The results were sometimes jarring, but the pages were always more compelling for their trespasses. It was a bit like that _Seinfeld_ episode in which George decides to do the opposite of whatever his instincts tell him — a strategy that gets him a new girlfriend and a job with the Yankees.
+>I can't tell you that every experiment will work out as well a it did for George. But I can promise you change."
+
+Empty words from a lot of people, but Scott Dadich honored his theory to great result. I still love the magazine and read it cover to cover, but Wired has felt a little directionless – both design-wise and editorially - the last few years. "This is going to be fun."
+
+[Wired}(http://www.wired.com/about/2013/02/lets-blow-some-stuff-up/)

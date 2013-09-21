@@ -1,0 +1,56 @@
+Title: Small Victories
+----
+Date: 7/24/13
+----
+Tags: small-victories, cms, products, projects
+----
+Category: announcing
+----
+Slug: A simple way to make a website out of the contents of a Dropbox folder.
+----
+Text:
+
+Recently, I've been thinking a lot about Content Management Systems. I've been working on a few WordPress projects for clients; WordPress is a powerful platform with a robust community, but it's really made me yearn for something simpler. So, as I've wanted to expand my own site, I've been thinking about what my ideal CMS would be.
+
+Additionally, I've been really interested in what I'm calling _Anaerobic Interfaces_. This is a separate (and forthcoming) post, and I'm still working on the definition, but this is what I call improvised user interfaces that live in existing or borrowed interfaces. More on this later, but basically, instead of an admin area, you manage your Small Victory in your computer's file system.
+
+Anyway, I had the idea for a system like this a while ago and I proposed it to Jack while I was in Berlin. That's how [Small Victories](http://www.smallvictori.es) was born.
+
+(image: 01.png class: full-width-img)
+
+__Small Victories__ is a very simple CMS. When you connect the app to your Dropbox account, it creates a folder. You can put images and text in the folder, and with a simple naming structure, it will create a website with all of your content.
+
+There's also a file for some basic settings like a custom domain, a CSS file with some basic styles to get you started on customizing, and a JS file if you want to get really fancy. __SV__ plugs all these into the right places for you automatically.<sup class="footnoted"></sup>
+
+(image: 04.png)
+
+We started with a more convoluted naming structure but simplified it a great deal over long conversations about naming conventions and file structures (exciting!). We opted for flexibility over specificity, but in the end, we basically accomplished the same things. Although we're calling it a category, you can think of this as any text – the name of a project, the client, the title of a blog post. And the sequence is just a way to sort your content. You can use something simple like _1, 2, 3, ...,_ or you could make it a date like _072413_, if you wanted. It's basically up to you.
+
+When you get started, it creates a demo site for you as a starting point:
+
+(image: 02.png class: full-width-img)
+
+I used some images from Berlin to make [my own __Small Victory__](http://6471827.smallvictori.es). I haven't customized it too far, yet, but I'm already learning how powerful such a simple system can be. I set up Lightroom to export images with the proper naming structure into the right folder, and that's basically all I had to do to create content for this.
+
+(image: 03.png class: full-width-img)
+
+I can't wait to see what people make with __Small Victories__. [Give it a try!](http://www.smallvictori.es)
+
+#### Addendum
+A few people have asked about various features. This app isn't meant to replace other publishing options; it fills a void. The goal is to drop files into a folder and automate everything else, including publishing. Of course, with increasing automatation comes decreased control. If you need a robust feature-set, there is no shortage of great platforms out there. It's not to say we'll never add any features, but for now we're keeping it basic.
+
+And somewhat related, some feedback has been dismissive because there are other Dropbox CMSes. Surely there are, and some good ones, too. But every one that I've seen has been a fairly conventional CMS; the fact that the files live on Dropbox is incidental. This blog runs on a [Kirby](http://getkirby.com) folder located in my Dropbox too, but that doesn't make them equivalent.
+
+And a note about customizing: we wrap all the elements on your site in classes based on the names of your files. This gives you plenty of hooks to hang styles and Javascript off of. We also get you started with CSS and JS files. I really think the limitations of a site made with Small Victories is a matter of perception. We want people to hack and play and be curious and surprise us with what they think up, so we haven't been too explicit about these options, but they're there.
+
+(image: footer_flag@2x.gif)
+
+
+
+
+----
+Footnotes:
+1. One of my favorite things about this interface is that, since there isn't one really, to return feedback like errors and alerts to the user, we write them to the _settings.txt file in your Dropbox folder.
+
+----
+Margin_notes:

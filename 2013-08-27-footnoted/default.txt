@@ -1,0 +1,27 @@
+Title: Footnoted
+----
+Date: 8/27/13
+----
+Tags: footnoted, javascript, jquery, projects, github, writing, editing, footnotes
+----
+Category: Projects
+----
+Slug: Easily add superscript footnote numbers to text that automatically link to corresponding footnotes below.
+----
+Text:
+
+Footnoted is a simple little jQuery plugin<sup class="footnoted"></sup> that might be of interest to writers. By inserting `<sup>` tags in your text in the places you want to reference footnotes, **Footnoted** will automatically insert the footnote number and a link to the footnote section of your website. Clicking a superscript number will scroll the user to the corresponding footnote. It also makes you a &#8216;back to top&#8217; button.
+
+This page is using it (with custom CSS), or you can check out [the demo](http://jacobheftmann.com/projects/footnoted/). There are some default CSS styles included, and it's pretty easy to customize the jQuery.
+
+To use or contribute to the project, [head to Github](https://github.com/jheftmann/footnoted).
+
+#### Update
+**Footnoted** now adds a &#8220;Back to reading position" link<sup class="footnoted"></sup> after the current footnote that scrolls you back up to where you were for seamless reading. It also adds a `.current-footnote` class for additional styling options.
+
+
+
+----
+Footnotes:
+1. This is my first non-client, not-a-website, open-source project on Github. It's definitely not impressive from a code standpoint, but what do you expect from a designer?
+2. Thanks to [@micdijkstra](http://twitter.com/micdijkstra) for the feature request!

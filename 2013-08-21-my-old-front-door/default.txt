@@ -1,0 +1,26 @@
+Title: My Old Front Door
+----
+Date: 8/21/13
+----
+Tags: projects, barcelona, travel, photography
+----
+Category: photography
+----
+Slug: Excerpts from _Puertas de Barcelona_
+----
+Text:
+
+This is my old front door in Barcelona. The first image is from when I lived in the building in 2010, and the last was taken this July.
+
+(image: 2010-jacobheftmann.com-P1050719.jpg)
+(image: 2012-jacobheftmann.com-0945.jpg)
+(image: 2013-jacobheftmann.com-0864.jpg)
+
+I've been working on a photo book based around photos like this that I've been collecting. Maybe I'll even finish it one day.
+
+
+----
+Margin_notes:
+- 2010
+- 2012
+- 2013

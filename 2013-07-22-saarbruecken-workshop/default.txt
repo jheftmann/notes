@@ -1,0 +1,40 @@
+Title: Development for Designers Workshop – HBKsaar
+----
+Date: 7/22/13
+----
+Tags: teaching, workshop, hbksaar, germany, travel
+----
+Category: Personal Note
+----
+Slug:
+----
+Text:
+
+When [Indra](http://kupferschrift.de) asked if I wanted to come to Germany to teach a workshop for her class, I'm not sure she was prepared for me to actually take her up on the offer. I only need the slightest reason to travel and I'll start packing bags.
+
+(image: 01.jpg)
+
+She teaches this class as a typography course but wanted the students to have a little primer on web development. Prior to my arrival, they designed a very nice site with the goal of having it live by the end of my visit. Development was completely new to most of the students, and between my not speaking German and the technical subject matter, I was blown away by how fast they picked it up.
+
+(image: 03.jpg)
+
+Development is obviously pretty technical and thus not universally interesting, nor is it readily apparent why it's relevant in a typography course. I started off by explaining that this is a good thing for every designer to know if for no other reason than to be able to put your own portfolio online. Really I think it's such a crucial skill at this point that it goes beyond that, but I was hoping that was an easy entry point. Afterwards, talking to the students, I think they all got that.
+
+(image: 02.jpg)
+
+And of course there was also an impressive student exhibition, _biergartens_, barbecue, and lovely town of Saarbrücken rounding out a really solid week.
+
+(image: 04.jpg)
+
+Thanks to [Indra Kupferschmid](http://kupferschrift.de/), [HBKsaar](http://www.hbksaar.de), and all the students for making this such a great experience.
+
+----
+Footnotes:
+1. I'm going to avoid the «should designers code» debate here.
+
+----
+Margin_notes:
+- Indra in her library / studio
+- Group QA session
+- Pair programming
+- Germany

@@ -1,0 +1,26 @@
+Title: Alastair Casey Photography
+----
+Date: 8/28/13
+----
+Tags: new work, web, responsive, mobile, alastair casey, photographer, portfolio
+----
+Category: new work
+----
+Slug: New website for Alastair Casey, New York-based photographer.
+----
+Background color: red
+----
+Text:
+
+I've had the pleasure of working with talented photographer Alastair Casey on [his new website](http://www.alastaircasey.com). His photos are terrific and it should work on all your devices, so have a visit.
+
+(image: ac.com-04.jpg)
+(image: ac.com-01.jpg)
+(image: ac.com-02.jpg)
+(image: ac.com-03.jpg)
+
+I think I almost enjoy the mobile and tablet versions more than the desktop one!
+
+----
+Footnotes:
+1. This was my second experience using [Flywheel](http://www.getflywheel.com) for Wordpress hosting. It's a great service and have no hesitation recommending it for client projects built on WordPress. They take care of set-up, there's no mucking around in a complicated admin area with tons of options clients don't need, and their support is __excellent__. The best feature, though, is that the site is online behind a password during development so you can review with clients. When you're ready to go live, you can turn the billing over to your client while keeping admin access.

@@ -1,0 +1,6 @@
+Title: Hello, World
+----
+Date: 11/12/12
+----
+Text: Old blog is gone, new blog is here.
+
