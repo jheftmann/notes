@@ -1,0 +1,23 @@
+Title: Hard Problems
+----
+Date: 9/20/13
+----
+Tags: design, technology, product design
+----
+Category: 
+----
+Slug: Slug lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec.
+----
+Text:
+
+
+
+----
+Footnotes:
+1. [blue](#)
+2. Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+3. Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+----
+Margin_notes:
+- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+- Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
