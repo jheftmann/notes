@@ -1,17 +1,19 @@
-Title: Hard Problems
-----
-Date: 9/20/13
-----
-Tags: design, technology, product design
-----
-Category: 
-----
-Slug: Slug lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec.
-----
 Text:
 
 
 
+----
+Title: Hard Problems
+----
+Slug: Slug lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec.
+----
+Date: 9/20/13
+----
+Category: 
+----
+Tags: design, technology, product design
+----
+Github URL: blah
 ----
 Footnotes:
 1. [blue](#)

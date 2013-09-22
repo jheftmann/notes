@@ -1,13 +1,3 @@
-Title: This is a test's long post
-----
-Date: 1/28/13
-----
-Tags: tag1, tag2, tag3
-----
-Category: This is the category
-----
-Slug: Slug lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec.
-----
 Text:
 
 > “'Is this a hard choice for you?' he demanded. Yes! I cried. "Oh," he said, springing back up cheerfully. "In that case, it doesn't matter. If it's a hard decision, then there's always lots to be said on both sides, so either choice is likely to be good in its way. Hard choices are always unimportant.“
@@ -38,6 +28,18 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. P
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
 
+----
+Title: This is a test's long post
+----
+Slug: Slug lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec.
+----
+Date: 1/28/13
+----
+Category: This is the category
+----
+Tags: tag1, tag2, tag3
+----
+Github URL:
 ----
 Footnotes:
 1. [blue](#)
