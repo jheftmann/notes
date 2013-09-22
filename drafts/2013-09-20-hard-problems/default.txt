@@ -3,14 +3,16 @@ Text:
 1. intro
 - lots of talk of solving hard problems
 - it's a meaningless phrase that sounds good
+- usually comes from a very solipsistic POV
 2. what are hard problems?
 - the implication is that they're good; transformative in ways that can change the lives of many people
 - in practice, it just means anything big
+		- lots of products come to mind here but not putting anyone on blast
 3. problems are hard for different reasons
 - scale
 - time
 - money
-- technical ability
+- technical
 - thus, we must look at hard problems as being relative
 		- i.e. a funded startup 'should' be doing something technically, socially, politically hard
 4. wevther
