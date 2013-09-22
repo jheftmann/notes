@@ -1,5 +1,30 @@
 Text:
 
+1. intro
+- lots of talk of solving hard problems
+- it's a meaningless phrase that sounds good
+2. what are hard problems?
+- the implication is that they're good; transformative in ways that can change the lives of many people
+- in practice, it just means anything big
+3. problems are hard for different reasons
+- scale
+- time
+- money
+- technical ability
+- thus, we must look at hard problems as being relative
+		- i.e. a funded startup 'should' be doing something technically, socially, politically hard
+4. wevther
+- making excuses for your work
+- everyone wants to start charity:water or airbnb, but not everyone does/can/gets to
+- origin story
+4. don't discourage honest work
+- relationships
+- experience
+		- acquired skills (e.g. development)
+- outcomes
+		- the limits of paid work
+4. conclusion
+- "solve the hardest problem you can"
 
 
 ----
