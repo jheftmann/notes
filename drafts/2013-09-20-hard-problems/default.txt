@@ -1,5 +1,27 @@
 Text:
 
+The call for people working in technology to "solve hard problems" makes the rounds pretty regularly<sup class="footnoted"></sup>. It's one of those meaningless phrases that sound good but don't actually mean anything. It also usually emanates from people who have great luxury in what they work on (or think that what they're doing is much more important than it is).
+
+## What are hard problems?
+The implication, presumably, is that a hard problem is one which, if solved, would be transformative for its ability to positively impact the lives of many people<sup class="footnoted"></sup>. It is considered hard either for scientific, technical, political, or social reasons.
+
+In practice, however, "hard problems" have largely become synonymous with large problems. The same people are very willing to give a pass to endeavors which are hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and technical hurdles are low.
+
+We can probably all volunteer favorite examples of consumer software companies whose product mostly makes the already comfortable middle-class lifestyle slightly more comfortable.<sup class="footnoted"></sup>
+
+## Problems are hard for different reasons
+Different problems are hard for different reasons: scientific or technical obstacles, political or business maneuvering, social mores or awareness, etc.
+
+The point is not to dismiss problems of scale as being unworthy of being solved<sup class="footnoted"></sup>. But it's far too easy for people to look at a company that has gone through the motions of getting investors and advisors and recruiting and give it a pass because it looks like what we traditionally understand as a legitimate undertaking worthy of these trappings.
+
+
+Footnotes:
+- 
+- Something could be technically hard but of little human benefit but the blog posts in question are usually self-righteous enough that we can probably ignore these cases
+- I would love to put some start-ups on blast here but I'll refrain
+- Netflix surely solved a huge business problem in its negotiations with content owners, but its other problems where more about scale (delivering content) than technology (DVDs and USPS were not very high-tech solutions).
+
+
 1. intro
 - lots of talk of solving hard problems
 - it's a meaningless phrase that sounds good
