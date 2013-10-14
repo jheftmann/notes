@@ -1,41 +1,25 @@
 Text:
 
-> “'Is this a hard choice for you?' he demanded. Yes! I cried. "Oh," he said, springing back up cheerfully. "In that case, it doesn't matter. If it's a hard decision, then there's always lots to be said on both sides, so either choice is likely to be good in its way. Hard choices are always unimportant.“
+1. project history
+2. why iOS
+3. process
+4. product requirements
+ - notifications
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In [link](http://www.jacobheftmann.com) nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-
-(image: http://2.bp.blogspot.com/-M0E8d8-oy9I/Tnjb2AtrkqI/AAAAAAAAFKw/PyA99rYFNFs/s1600/Ruscha_California%2BGrapeskins.jpg class: full-width-img)
-
-Lorem ipsum dolor sit amet, _consectetuer adipiscing elit_. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-
-## this is an h2 headline
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque **aliquet nibh nec** urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-
-(image: http://2.bp.blogspot.com/-M0E8d8-oy9I/Tnjb2AtrkqI/AAAAAAAAFKw/PyA99rYFNFs/s1600/Ruscha_California%2BGrapeskins.jpg)
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-
-### This is an h3 headline
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-
-#### this is an h4 headline
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-
-##### this is an h5 headline
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+assets:
+- icons
+- screenshots
+- videos
+- illy artboards
 
 ----
 Title: This is a test's long post
 ----
 Slug: Slug lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec.
 ----
-Date: 1/28/13
+Date: 10/14/13
 ----
-Category: This is the category
+Category: new work
 ----
 Tags: tag1, tag2, tag3
 ----
