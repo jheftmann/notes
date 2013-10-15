@@ -1,17 +1,17 @@
 Text:
 
-(umbrella loader)
+(image: umbrella.gif)
 
-In late 2011, I built a very simple version of W E Λ T H E R with products sourced manually from [Svpply](http://www.svpply.com). It only showed the weather in New York.
+In late 2011, I built a very simple version of WEVTHER with products sourced manually from [Svpply](http://www.svpply.com). It only showed the weather in New York.
 
-In 2012, after Svpply released their API, W E Λ T H E R was relaunched with local weather and dynamic products. There was a lot more we wanted to do but as a side-project, the time we could dedicate to the project was limited.
+In 2012, after Svpply released their API, WEVTHER was relaunched with local weather and dynamic products. There was a lot more we wanted to do but as a side-project, the time we could dedicate to the project was limited.
 
-Today, I'm really excited to announce [W E Λ T H E R for iOS].
+Today, I'm really excited to announce [WEVTHER for iOS]().
 
-(screenshots)
+(image: screenshots.jpg)
 
-# Why iOS
-W E Λ T H E R started as a website because that's what I could build myself. A phone is where this product belongs, though. Even sitting at my desk, I'm more likely to check the weather on my phone. And for me – and I suspect others – I check the weather in bed a lot of moorings.
+# Why iOS?
+WEVTHER started as a website because that's what I could build myself. A phone is where this product belongs, though. Even sitting at my desk, I'm more likely to check the weather on my phone. And for me – and I suspect others – I check the weather in bed a lot of mornings.
 
 It worked quite nicely on mobile and was intended to be installed as a web app on your homescreen. Regardless of how full-featured the browser-based site is, it's really hard to get users to install web apps. Few people think of the option or even know how to do it.<sup class="footnoted"></sup>
 
@@ -35,25 +35,26 @@ I used to be obsessed with developers building, and designers handing off, "pixe
 
 There was no "hand-off." We kept a shared Dropbox folder and anything in there was the latest version, which meant it was free to build off of. A big Illustrator file with a bunch of artboards covered the architecture of the app, and some general layouts and styles. It articulated the app at a macro level, but by no means was this perfectly fleshed-out or to-the-pixel.
 
-(artboards)
+(image: artboards.jpg)
 
 In addition to this, I provided a page of documentation that covered everything that was easier to explain than to show: state changes, transitions, interactions, copy, layout variations, and more.
 
 What was important to provide in pixel-perfect form were specific assets, such as the weather icons. However, we just used placeholder images and eyeballed the sizes until about 3/4 of the way through the build.
 
-(icons)
+(image: icons.jpg)
 
 We tracked the project via Github issues and added increasing levels of fidelity in terms of performance, interactions, visual assets, and copy as we moved through the to-do list.
 
 # wevther.com and video
 I hadn't shot or edited video in a long time, but I thought it would be fun to shoot a little story to show off a feature we're especially excited about.
 
-(Morning video)
-(app walk-through video)
+<iframe src="//player.vimeo.com/video/76003931?title=0&amp;byline=0&amp;portrait=0&amp;color=f95d5d" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="//player.vimeo.com/video/76008893?title=0&amp;byline=0&amp;portrait=0&amp;color=f95d5d" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 These were shot with a combination of Canon 7D and Fuji X-Pro 1, using mostly natural lighting but also some continuous lights with umbrellas.
 
-We think W E Λ T H E R itself is so well-suited to the mobile experience that we turned wevther.com into a simple site to showcase the app.
+We think WEVTHER itself is so well-suited to the mobile experience that we turned wevther.com into a simple site to showcase the app.
 
 # One last thing: Notifications
 [There are a ton of weather apps out there, so I don't entirely blame you if you're rolling your eyes at the thought of another one](). Aside a New York subway map and Instapaper, the home screen of my phone has only default apps on it. I truly believe in building useful products, so we thought about what would make this something people not only tried and maybe liked but used and relied on.
@@ -64,14 +65,14 @@ If you're after detailed reports, you can beat Weather.app with a third-party ap
 
 We wanted to go beyond the basic proposition of translating weather data into more human terms, so we also built in notifications that will send you an alert with the days forecast. Even if you don't care about clothes or don't need any fashion advice, this is still a pretty useful feature.
 
-(push image)
+(image: notification.jpg)
 
 # Enjoy
-TL;DR version: W E Λ T H E R is available in the App Store now. Download / enjoy / look sharp / stay dry.
+TL;DR version: WEVTHER is available in the App Store now. Download / enjoy / look sharp / stay dry.
 
 Thanks for the support.
 
-(homescreen image)
+(image: homescreen.jpg)
 
 ----
 Title: WEVTHER for iOS
