@@ -2,36 +2,36 @@ Text:
 
 (image: umbrella.gif)
 
-In late 2011, I built a very simple version of WEVTHER with products sourced manually from [Svpply](http://www.svpply.com). It only showed the weather in New York.
+In late 2011, I built a very simple version of WEVTHER with products sourced manually from [Svpply](http://www.svpply.com). It only showed the weather in New York and I had to update it every morning.
 
-In 2012, after Svpply released their API, WEVTHER was relaunched with local weather and dynamic products. There was a lot more we wanted to do but as a side-project, the time we could dedicate to the project was limited.
+In 2012, after Svpply released their API, WEVTHER was re-launched with weather based on your location and recommended products. There was a lot more we wanted to do but as a side-project, the time we could dedicate to the project was limited.
 
 Today, I'm really excited to announce [WEVTHER for iOS]().
 
 (image: screenshots.jpg)
 
-# Why iOS?
+## Why iOS?
 WEVTHER started as a website because that's what I could build myself. A phone is where this product belongs, though. Even sitting at my desk, I'm more likely to check the weather on my phone. And for me – and I suspect others – I check the weather in bed a lot of mornings.
 
-It worked quite nicely on mobile and was intended to be installed as a web app on your homescreen. Regardless of how full-featured the browser-based site is, it's really hard to get users to install web apps. Few people think of the option or even know how to do it.<sup class="footnoted"></sup>
+The website worked quite nicely on mobile and was intended to be installed as a web app on your homescreen. Regardless of how full-featured the browser-based site is, it's really hard to get users to install web apps. Few people think of the option or even know how to do it.<sup class="footnoted"></sup>
 
-# What's new
+## What's new
 We knew when we had the chance to build an iOS version of the app that it was a great opportunity to check off a lot of things on our wish-list:
 
 - improve product recommendation accuracy
 - source products beyond Svpply's inventory
 - bring back international location support
 - remove products that are no longer available
-- update the design
+- re-design a few things
 
 Plus we got to do some of the fun things that come along with building a native app for a touchscreen interface.
 
-# Process
-Unfortunately this blog has not been the platform for advocating better processes in digital product design as I have long hoped (mostly for boring reasons). But if you've ever put up with me in person, you know it's a topic which I talk often and at length about. (Despite that, I'll keep this brief.)
+## Process
+Unfortunately this blog has not been the platform for advocating better processes in digital product design as I have long hoped (for boring reasons). But if you've ever put up with me in person, you know it's a topic which I talk often and at length about. (Despite that, I'll keep this brief.)
 
 I will let you judge the results yourself, but I can say that the process itself was somewhat of a model for me going forward. 
 
-I used to be obsessed with developers building, and designers handing off, "pixel perfect" designs. I am now adamantly opposed to this idea.
+I used to be obsessed with developers building from, and designers handing off, "pixel perfect" comps. I am now opposed to this idea, and would even go so far as to advocate against it. If your own dedication to craft makes you work this way, that's commendable. But beyond that it has no utility.
 
 There was no "hand-off." We kept a shared Dropbox folder and anything in there was the latest version, which meant it was free to build off of. A big Illustrator file with a bunch of artboards covered the architecture of the app, and some general layouts and styles. It articulated the app at a macro level, but by no means was this perfectly fleshed-out or to-the-pixel.
 
@@ -39,36 +39,38 @@ There was no "hand-off." We kept a shared Dropbox folder and anything in there w
 
 In addition to this, I provided a page of documentation that covered everything that was easier to explain than to show: state changes, transitions, interactions, copy, layout variations, and more.
 
-What was important to provide in pixel-perfect form were specific assets, such as the weather icons. However, we just used placeholder images and eyeballed the sizes until about 3/4 of the way through the build.
+What *is* important to provide in pixel-perfect form were specific assets, such as the weather icons. However, we just used placeholder images and eyeballed the sizes until about 3/4 of the way through the build.
 
 (image: icons.jpg)
 
 We tracked the project via Github issues and added increasing levels of fidelity in terms of performance, interactions, visual assets, and copy as we moved through the to-do list.
 
-# wevther.com and video
+## wevther.com and video
 I hadn't shot or edited video in a long time, but I thought it would be fun to shoot a little story to show off a feature we're especially excited about.
 
 <iframe src="//player.vimeo.com/video/76003931?title=0&amp;byline=0&amp;portrait=0&amp;color=f95d5d" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <iframe src="//player.vimeo.com/video/76008893?title=0&amp;byline=0&amp;portrait=0&amp;color=f95d5d" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-These were shot with a combination of Canon 7D and Fuji X-Pro 1, using mostly natural lighting but also some continuous lights with umbrellas.
+These were shot with a combination of Canon 7D and Fuji X-Pro 1, using mostly natural lighting but also some continuous lights with umbrellas.<sup class="footnoted"></sup>
+
+Working with video online is a bit of a beast, and I would definitely advise factoring that in when scoping a project. Between two videos, multiple edits, exporting in various formats, uploading, rolling your own player like the fullscreen experience on wevther.com, having fallbacks for mobile, etc., it can definitely add complexity.
 
 We think WEVTHER itself is so well-suited to the mobile experience that we turned wevther.com into a simple site to showcase the app.
 
-# One last thing: Notifications
-[There are a ton of weather apps out there, so I don't entirely blame you if you're rolling your eyes at the thought of another one](). Aside a New York subway map and Instapaper, the home screen of my phone has only default apps on it. I truly believe in building useful products, so we thought about what would make this something people not only tried and maybe liked but used and relied on.
+## One last thing: Notifications
+[There are a ton of weather apps out there, so I don't entirely blame you if you're rolling your eyes at the thought of another one](). Aside from a New York subway map and Instapaper, the home screen of my phone has only default apps on it. I genuinely believe in building useful products, so we thought about what would make this something people not only tried and maybe liked but used and relied on.
 
 For convenience, it's hard to beat the weather report that's built into Notification Center, especially now that you can access it from the lock screen. For thoroughness, the stock iOS Weather app still covers most needs.
 
-If you're after detailed reports, you can beat Weather.app with a third-party app, but that's not what we were interested in. Simply betting on simplicity, as many weather apps have, amounts to re-skinning Weather.app and not really adding anything in the way of convenience or utility.
+If you're after detailed reports, you a third-party app will give you all the meteorological data you need (and then some), but that's not what we were interested in. In the other direction, betting on simplicity<sup class="footnoted"></sup>, as many weather apps have, amounts to re-skinning Weather.app and not really adding anything in the way of convenience or utility.
 
-We wanted to go beyond the basic proposition of translating weather data into more human terms, so we also built in notifications that will send you an alert with the days forecast. Even if you don't care about clothes or don't need any fashion advice, this is still a pretty useful feature.
+We wanted to go beyond our basic proposition of translating weather data into more human terms (i.e. clothing), so we also built in notifications that will send you an alert with the day's forecast. Even if you don't care about clothes or don't need any fashion advice, this is still a pretty useful feature.
 
 (image: notification.jpg)
 
-# Enjoy
-TL;DR version: WEVTHER is available in the App Store now. Download / enjoy / look sharp / stay dry.
+## Enjoy
+TL;DR version: [WEVTHER is available in the App Store now](). Download / enjoy / look sharp / stay dry.
 
 Thanks for the support.
 
@@ -77,7 +79,7 @@ Thanks for the support.
 ----
 Title: WEVTHER for iOS
 ----
-Slug: Slug lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec.
+Slug: Good products for today's weather, delivered to your iPhone. We don't care about the weather, we just want to be comfortable.
 ----
 Date: 10/14/13
 ----
@@ -89,5 +91,7 @@ Github URL: https://github.com/jheftmann/notes/blob/master/drafts/2013-10-14-wev
 ----
 Footnotes:
 1. I still think that web apps are a great solution for a lot of mobile products. Very few experiences really need a native app. But the reality is that usage is really low and the benefits of building a native app are more often about engagement than technical constraints.
+2. I'm an avid Fuji shooter and was especially impressed with how the camera handled video.
+3. Though I would say most of those apps have confounded minimalism  with simplicity, which are not the same things.
 ----
 Margin_notes:
