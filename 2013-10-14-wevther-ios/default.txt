@@ -1,6 +1,6 @@
 Text:
 
-(image: umbrella.gif)
+(image: umbrella.gif class: full-width-image)
 
 In late 2011, I built a very simple version of WEVTHER with products sourced manually from [Svpply](http://www.svpply.com). It only showed the weather in New York and I had to update it every morning.
 
@@ -8,7 +8,7 @@ In 2012, after Svpply released their API, WEVTHER was re-launched with weather b
 
 Today, I'm really excited to announce [WEVTHER for iOS]().
 
-(image: screenshots.jpg)
+(image: screenshots.jpg class: full-width-image)
 
 ## Why iOS?
 WEVTHER started as a website because that's what I could build myself. A phone is where this product belongs, though. Even sitting at my desk, I'm more likely to check the weather on my phone. And for me – and I suspect others – I check the weather in bed a lot of mornings.
@@ -35,15 +35,17 @@ I used to be obsessed with developers building from, and designers handing off, 
 
 There was no "hand-off." We kept a shared Dropbox folder and anything in there was the latest version, which meant it was free to build off of. A big Illustrator file with a bunch of artboards covered the architecture of the app, and some general layouts and styles. It articulated the app at a macro level, but by no means was this perfectly fleshed-out or to-the-pixel.
 
-(image: artboards.jpg)
+(image: artboards.jpg class: full-width-image)
 
 In addition to this, I provided a page of documentation that covered everything that was easier to explain than to show: state changes, transitions, interactions, copy, layout variations, and more.
 
 What *is* important to provide in pixel-perfect form were specific assets, such as the weather icons. However, we just used placeholder images and eyeballed the sizes until about 3/4 of the way through the build.
 
-(image: icons.jpg)
+(image: icons.jpg class: full-width-image)
 
 We tracked the project via Github issues and added increasing levels of fidelity in terms of performance, interactions, visual assets, and copy as we moved through the to-do list.
+
+(image: field_testing.jpg class: full-width-image)
 
 ## wevther.com and video
 I hadn't shot or edited video in a long time, but I thought it would be fun to shoot a little story to show off a feature we're especially excited about.
@@ -67,19 +69,19 @@ If you're after detailed reports, you a third-party app will give you all the me
 
 We wanted to go beyond our basic proposition of translating weather data into more human terms (i.e. clothing), so we also built in notifications that will send you an alert with the day's forecast. Even if you don't care about clothes or don't need any fashion advice, this is still a pretty useful feature.
 
-(image: notification.jpg)
+(image: notification.jpg class: full-width-image)
 
 ## Enjoy
-TL;DR version: [WEVTHER is available in the App Store now](). Download / enjoy / look sharp / stay dry.
+[WEVTHER is available in the App Store now](). Download / enjoy / look sharp / stay dry.
 
 Thanks for the support.
 
-(image: homescreen.jpg)
+(image: homescreen.jpg class: full-width-image)
 
 ----
 Title: WEVTHER for iOS
 ----
-Slug: Good products for today's weather, delivered to your iPhone. We don't care about the weather, we just want to be comfortable.
+Slug: Good products for today's weather, delivered to your iPhone.
 ----
 Date: 10/14/13
 ----
@@ -91,7 +93,7 @@ Github URL: https://github.com/jheftmann/notes/blob/master/drafts/2013-10-14-wev
 ----
 Footnotes:
 1. I still think that web apps are a great solution for a lot of mobile products. Very few experiences really need a native app. But the reality is that usage is really low and the benefits of building a native app are more often about engagement than technical constraints.
-2. I'm an avid Fuji shooter and was especially impressed with how the camera handled video.
+2. I'm an avid Fuji shooter but video is not a big feature on the X -series cameras and was especially impressed with how the camera handled video.
 3. Though I would say most of those apps have confounded minimalism  with simplicity, which are not the same things.
 ----
 Margin_notes:
