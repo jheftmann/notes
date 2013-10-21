@@ -30,16 +30,18 @@ I had a very small problem I wanted to solve. By most measures, it's not a hard 
 
 Additionally, an outsider's perspective of what the actual problem is might be different than the person solving the problem.
 
-I had just left a job working directly with large media companies and, more than anything else, I wanted to do projects that I had control over. WEVTHER was at a scale and of an aesthetic that I could never have done at that job. Michael, who built a lot of the [iOS app](https://itunes.apple.com/us/app/wevther/id723686546), wanted to learn Cocoa.
+I had just left a job working directly with large media companies and, more than anything else, I wanted to do projects that I had control over. Paid work always has its limitations. WEVTHER was at a scale and of an aesthetic that I could never have done at that job.
 
-When established designers give the advice "do the work you want to do more of," they're speaking from a position where that's actually an option. Many people don't have the luxury of being picky about the work they do or, though. But if you make your own problems and solve them – even if they're not hard – you can get exactly the outcome you want.
+Michael, who built a lot of the [iOS app](https://itunes.apple.com/us/app/wevther/id723686546), wanted to learn Cocoa.
+
+When established designers give the advice "do the work you want to do more of," they're speaking from a position where that's a realistic option. Many people don't have the luxury of being picky about the work they do, though. But if you make your own problems and solve them – even if they're not hard – you can get exactly the outcome you want.
 
 ## Don't discourage honest work
-It's a shame to know that we might be discouraging people from building things on their own because they don't think their ideas are worthy of being realized.
+It's a shame to know that we might be discouraging people from building things on their own because they're told their ideas aren't worthy of being realized.
 
-Whether someone else thinks a project is interesting or useful is almost irrelevant. Through WEVTHER, I have met people that have gone on to become friends, clients, or collaborators. I learned technical stuff, product stuff, and business stuff. I filmed a video because nobody would hire me to without having one in my portfolio. I learned how to write code with a team.
+At the beginning of this year, I worked with an agency on a project for a major global sportswear brand. As part of the brief, I was given a 99-page PDF that covered everything from the brand's digital strategy to fashion trends. As I flipped through, I came to a page and on it was a screenshot of WEVTHER.  After that, I never again dismissed the project.
 
-At the beginning of this year, I worked with an agency on a project for a major global sportswear brand. As part of the brief, I was given a 99-page PDF that covered everything from the brand's digital strategy to fashion trends. As I flipped through, I came to a page and on it was a screenshot of WEVTHER. I still may not have changed anyones life, but I sure as hell was proud.
+In the end, though, whether someone else thinks a project is interesting or useful is mostly irrelevant. Through WEVTHER, I have met people that have gone on to become friends, clients, and collaborators. I learned technical stuff, product stuff, and business stuff. I filmed a video because nobody would hire me to without seeing one in my portfolio. I learned how to write code with a team. I have an app in the app store under my name that came out exactly how I want, regardless of whether anyone else thinks it's good or not.
 
 ## Let's reframe this idea
 From now on, instead of telling people that they're wasting their time on unimportant problems, let's try this:
@@ -52,10 +54,6 @@ Everyone should solve the hardest problem they can.
 Footnotes:
 - We can probably all volunteer favorite examples of consumer software companies whose product mostly makes the already comfortable middle-class lifestyle slightly more comfortable. It's not clear that these products solve hard problems.
 - I'm sure there are other reasons I missed as to why something could be considered hard
-- Something could be technically hard but of little human benefit but the blog posts in question are usually self-righteous enough that we can probably ignore these cases
-- I would love to put some start-ups on blast here but I'll refrain
-- Netflix surely solved a huge business problem in its negotiations with content owners, but its other problems where more about scale (delivering content) than technology (DVDs and USPS were not very high-tech solutions).
-
 
 1. intro
 - lots of talk of solving hard problems
