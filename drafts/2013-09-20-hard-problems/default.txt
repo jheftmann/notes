@@ -1,11 +1,11 @@
 Text:
 
-The call for people working in technology to "solve hard problems" makes the rounds pretty regularly<sup class="footnoted"></sup>. It's one of those meaningless phrases that sound good but don't actually mean anything. It also usually emanates from people who have great luxury in what they work on (or think that what they're doing is much more important than it is).
+I hear this every now and then that people in tech should be "solving hard problems." It's one of those phrases that sounds good but doesn't really mean anything. It also usually comes from people who have great luxury in what they work on (or maybe don't judge their own work perfectly objectively).
 
 ## What are hard problems?
 The implication, presumably, is that a hard problem is one which, if solved, would be transformative for its ability to positively impact the lives of many people<sup class="footnoted"></sup>. It is considered "hard" either for scientific, technical, political, or social reasons.
 
-In practice, however, "hard problems" have largely become synonymous with problems of scale. The same people writing blog posts about how we should be solving hard problems are often very willing to give a pass to endeavors which are hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and technical hurdles are low.
+In practice, however, "hard problems" are often just problems of scale. The same people writing blog posts about how we should be solving hard problems are often very willing to give a pass to endeavors which are hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and technical hurdles are low.
 
 We can probably all volunteer favorite examples of consumer software companies whose product mostly makes the already comfortable middle-class lifestyle slightly more comfortable. It's not clear that these products solve hard problems.<sup class="footnoted"></sup>
 
@@ -14,11 +14,13 @@ The point is not to dismiss problems of scale as being unworthy of being solved<
 ## Problems are hard for different reasons
 Different problems are hard for different reasons: scientific or technical obstacles, political barriers, changing social behavior or awareness, etc.
 
+Sometimes, however, problems are hard for far more practical reasons: a lack of funding, lack of first-hand technical skills, you live in a place far removed from technology or venture capital hubs, etc.
+
 
 
 
 Footnotes:
-- 
+- I'm sure there are other reasons I missed as to why something could be considered hard
 - Something could be technically hard but of little human benefit but the blog posts in question are usually self-righteous enough that we can probably ignore these cases
 - I would love to put some start-ups on blast here but I'll refrain
 - Netflix surely solved a huge business problem in its negotiations with content owners, but its other problems where more about scale (delivering content) than technology (DVDs and USPS were not very high-tech solutions).
