@@ -7,24 +7,24 @@ The implication, presumably, is that a hard problem is one which, if solved, wou
 
 In practice, though, the same people writing these blog posts about how we should be solving hard problems are often very willing to give a pass to endeavors which look hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and/or technical hurdles are low.<sup class="footnoted"></sup>
 
-Additionally, though I'm not a venture capitalist, it seems reasonable to assume that venture capital money is more interested in solving problems with financial promise than ones that are difficult. In fact, it would seem that the best investments are those the with a large payout and low level of difficulty.
+Additionally, though I'm not a venture capitalist, it seems reasonable to assume that investors are more interested in solving problems with financial promise than ones that are difficult. Indeed, it would seem that the best investments are those the with a large payout and low level of difficulty.
 
 The point is not to dismiss problems of scale as being unworthy of being solved<sup class="footnoted"></sup>. But it's far too easy for an adherent to the cult of hard problems to look at a company that has gone through the motions of getting investors and advisors and recruiting and give it a pass because it looks like what we traditionally understand as a legitimately large undertaking.
 
 ## Problems are hard for different reasons
 Different problems are hard for different reasons: scientific or technical obstacles, political barriers, changing social behavior or awareness, etc.
 
-Sometimes, however, problems are hard for far more practical reasons: a lack of capital, lack of first-hand technical skills, being located in a place far removed from technology or venture capital hubs, etc.
+Sometimes, however, problems are hard for far more banal reasons: a lack of capital, lack of first-hand technical skills, being located in a place far removed from technology or venture capital hubs, etc.
 
 Thus, we should start thinking of hard problems as being relative. A funded start-up **should**, by this standard, be doing something hard.
 
 ## A personal example
-In 2012, I launched [WEVTHER](http://www.wevther.com) with a friend. I had just started working for myself and was trying to keep up with finding clients, doing the work, managing projects, and adjusting to a fairly large pay cut after leaving a comfortable agency job. We built WEVTHER in our spare time with no funding or expectation of anything more than maybe building something we liked with total freedom and learning a few things along the way.
+In 2012, I launched [WEVTHER](http://www.wevther.com) with a friend. I had just started working for myself and was trying to keep up with finding clients, doing the work, managing projects, and adjusting to a fairly large pay cut after leaving a comfortable agency job. We built WEVTHER in our spare time with no funding or expectation of anything more than maybe making something we liked with total freedom and learning a few things along the way.
 
-WEVTHER saw a modest amount of success, but whenever anyone asked about it I was almost embarrassed. I didn't think it was big enough, important enough, or serious enough, and it felt really bad to not be able to be proud of it.
+WEVTHER saw a modest amount of success, but whenever anyone asked about it I was almost embarrassed. I didn't think it was big enough, important enough, or serious enough, and it felt really bad to not be proud of it.
 
 ## Sometimes you have to solve your own problems
-If given the opportunity, I truly believe most people want to help other people. There are a million other things I wish I could've contributed to the world before WEVTHER. There are a million weather apps, and you're crazy if you think that I don't realize that or that I believe I can do something groundbreaking by creating one.
+I truly believe that, if given the opportunity, most people want to help other people. There are a million other things I wish I could've contributed to the world before WEVTHER. There are a million weather apps, and you're crazy if you think that I don't realize that or that I believe I can do something groundbreaking by creating another one.
 
 I had a very small problem I wanted to solve. By most measures, it's not a hard one. But with limited time and resources, it actually *was* a hard problem for me to solve.
 
