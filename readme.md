@@ -1,4 +1,4 @@
-# This repo contains the revision history for [notes.jacobheftmann.com](http://notes.jacobheftmann.com).
+## This repo contains the revision history for [notes.jacobheftmann.com](http://notes.jacobheftmann.com).
 
 ## Contributing
 Substantive contributions are welcome.
