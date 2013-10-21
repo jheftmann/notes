@@ -1,25 +1,56 @@
 Text:
 
-I hear this every now and then that people in tech should be "solving hard problems." It's one of those phrases that sounds good but doesn't really mean anything. It also usually comes from people who have great luxury in what they work on (or maybe don't judge their own work perfectly objectively).
+I hear this every now and then that people in tech should be "solving hard problems." It's one of those phrases that sounds good but doesn't really mean anything. It also usually comes from well-established people who have great freedom in what they work on (or maybe don't judge their own work perfectly objectively).
 
 ## What are hard problems?
 The implication, presumably, is that a hard problem is one which, if solved, would be transformative for its ability to positively impact the lives of many people<sup class="footnoted"></sup>. It is considered "hard" either for scientific, technical, political, or social reasons.
 
-In practice, however, "hard problems" are often just problems of scale. The same people writing blog posts about how we should be solving hard problems are often very willing to give a pass to endeavors which are hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and technical hurdles are low.
+In practice, though, the same people writing these blog posts about how we should be solving hard problems are often very willing to give a pass to endeavors which look hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and/or technical hurdles are low.<sup class="footnoted"></sup>
 
-We can probably all volunteer favorite examples of consumer software companies whose product mostly makes the already comfortable middle-class lifestyle slightly more comfortable. It's not clear that these products solve hard problems.<sup class="footnoted"></sup>
+Additionally, though I'm not a venture capitalist, it seems reasonable to assume that venture capital money is more interested in solving problems with financial promise than ones that are difficult. In fact, it would seem that the best investments are those the with a large payout and low level of difficulty.
 
 The point is not to dismiss problems of scale as being unworthy of being solved<sup class="footnoted"></sup>. But it's far too easy for an adherent to the cult of hard problems to look at a company that has gone through the motions of getting investors and advisors and recruiting and give it a pass because it looks like what we traditionally understand as a legitimately large undertaking.
 
 ## Problems are hard for different reasons
 Different problems are hard for different reasons: scientific or technical obstacles, political barriers, changing social behavior or awareness, etc.
 
-Sometimes, however, problems are hard for far more practical reasons: a lack of funding, lack of first-hand technical skills, you live in a place far removed from technology or venture capital hubs, etc.
+Sometimes, however, problems are hard for far more practical reasons: a lack of capital, lack of first-hand technical skills, being located in a place far removed from technology or venture capital hubs, etc.
+
+Thus, we should start thinking of hard problems as being relative. A funded start-up **should**, by this standard, be doing something hard.
+
+## A personal example
+In 2012, I launched [WEVTHER](http://www.wevther.com) with a friend. I had just started working for myself and was trying to keep up with finding clients, doing the work, managing projects, and adjusting to a fairly large pay cut after leaving a comfortable agency job. We built WEVTHER in our spare time with no funding or expectation of anything more than maybe building something we liked with total freedom and learning a few things along the way.
+
+WEVTHER saw a modest amount of success, but whenever anyone asked about it I was almost embarrassed. I didn't think it was big enough, important enough, or serious enough, and it felt really bad to not be able to be proud of it.
+
+## Sometimes you have to solve your own problems
+If given the opportunity, I truly believe most people want to help other people. There are a million other things I wish I could've contributed to the world before WEVTHER. There are a million weather apps, and you're crazy if you think that I don't realize that or that I believe I can do something groundbreaking by creating one.
+
+I had a very small problem I wanted to solve. By most measures, it's not a hard one. But with limited time and resources, it actually *was* a hard problem for me to solve.
+
+Additionally, an outsider's perspective of what the actual problem is might be different than the person solving the problem.
+
+I had just left a job working directly with large media companies and, more than anything else, I wanted to do projects that I had control over. WEVTHER was at a scale and of an aesthetic that I could never have done at that job. Michael, who built a lot of the [iOS app](https://itunes.apple.com/us/app/wevther/id723686546), wanted to learn Cocoa.
+
+When established designers give the advice "do the work you want to do more of," they're speaking from a position where that's actually an option. Many people don't have the luxury of being picky about the work they do or, though. But if you make your own problems and solve them – even if they're not hard – you can get exactly the outcome you want.
+
+## Don't discourage honest work
+It's a shame to know that we might be discouraging people from building things on their own because they don't think their ideas are worthy of being realized.
+
+Whether someone else thinks a project is interesting or useful is almost irrelevant. Through WEVTHER, I have met people that have gone on to become friends, clients, or collaborators. I learned technical stuff, product stuff, and business stuff. I filmed a video because nobody would hire me to without having one in my portfolio. I learned how to write code with a team.
+
+At the beginning of this year, I worked with an agency on a project for a major global sportswear brand. As part of the brief, I was given a 99-page PDF that covered everything from the brand's digital strategy to fashion trends. As I flipped through, I came to a page and on it was a screenshot of WEVTHER. I still may not have changed anyones life, but I sure as hell was proud.
+
+## Let's reframe this idea
+From now on, instead of telling people that they're wasting their time on unimportant problems, let's try this:
+
+Everyone should solve the hardest problem they can.
 
 
 
 
 Footnotes:
+- We can probably all volunteer favorite examples of consumer software companies whose product mostly makes the already comfortable middle-class lifestyle slightly more comfortable. It's not clear that these products solve hard problems.
 - I'm sure there are other reasons I missed as to why something could be considered hard
 - Something could be technically hard but of little human benefit but the blog posts in question are usually self-righteous enough that we can probably ignore these cases
 - I would love to put some start-ups on blast here but I'll refrain
