@@ -3,16 +3,18 @@ Text:
 The call for people working in technology to "solve hard problems" makes the rounds pretty regularly<sup class="footnoted"></sup>. It's one of those meaningless phrases that sound good but don't actually mean anything. It also usually emanates from people who have great luxury in what they work on (or think that what they're doing is much more important than it is).
 
 ## What are hard problems?
-The implication, presumably, is that a hard problem is one which, if solved, would be transformative for its ability to positively impact the lives of many people<sup class="footnoted"></sup>. It is considered hard either for scientific, technical, political, or social reasons.
+The implication, presumably, is that a hard problem is one which, if solved, would be transformative for its ability to positively impact the lives of many people<sup class="footnoted"></sup>. It is considered "hard" either for scientific, technical, political, or social reasons.
 
-In practice, however, "hard problems" have largely become synonymous with large problems. The same people are very willing to give a pass to endeavors which are hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and technical hurdles are low.
+In practice, however, "hard problems" have largely become synonymous with problems of scale. The same people writing blog posts about how we should be solving hard problems are often very willing to give a pass to endeavors which are hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and technical hurdles are low.
 
-We can probably all volunteer favorite examples of consumer software companies whose product mostly makes the already comfortable middle-class lifestyle slightly more comfortable.<sup class="footnoted"></sup>
+We can probably all volunteer favorite examples of consumer software companies whose product mostly makes the already comfortable middle-class lifestyle slightly more comfortable. It's not clear that these products solve hard problems.<sup class="footnoted"></sup>
+
+The point is not to dismiss problems of scale as being unworthy of being solved<sup class="footnoted"></sup>. But it's far too easy for an adherent to the cult of hard problems to look at a company that has gone through the motions of getting investors and advisors and recruiting and give it a pass because it looks like what we traditionally understand as a legitimately large undertaking.
 
 ## Problems are hard for different reasons
-Different problems are hard for different reasons: scientific or technical obstacles, political or business maneuvering, social mores or awareness, etc.
+Different problems are hard for different reasons: scientific or technical obstacles, political barriers, changing social behavior or awareness, etc.
 
-The point is not to dismiss problems of scale as being unworthy of being solved<sup class="footnoted"></sup>. But it's far too easy for people to look at a company that has gone through the motions of getting investors and advisors and recruiting and give it a pass because it looks like what we traditionally understand as a legitimate undertaking worthy of these trappings.
+
 
 
 Footnotes:

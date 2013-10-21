@@ -6,7 +6,7 @@ In late 2011, I built a very simple version of WEVTHER with products sourced man
 
 In 2012, after Svpply released their API, WEVTHER was re-launched with weather based on your location and recommended products. There was a lot more we wanted to do but as a side-project, the time we could dedicate to the project was limited.
 
-Today, I'm really excited to announce [WEVTHER for iOS]().
+Today, I'm really excited to announce [WEVTHER for iOS](https://itunes.apple.com/us/app/wevther/id723686546).
 
 (image: screenshots.jpg class: full-width-image)
 
@@ -72,7 +72,7 @@ We wanted to go beyond our basic proposition of translating weather data into mo
 (image: notification.jpg class: full-width-image)
 
 ## Enjoy
-[WEVTHER is available in the App Store now](). Download / enjoy / look sharp / stay dry.
+[WEVTHER is available in the App Store now](https://itunes.apple.com/us/app/wevther/id723686546). Download / enjoy / look sharp / stay dry.
 
 Thanks for the support.
 
