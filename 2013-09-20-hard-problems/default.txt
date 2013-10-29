@@ -1,15 +1,15 @@
 Text:
 
-I hear this every now and then that people in tech should be "solving hard problems." It's one of those phrases that sounds good but doesn't really mean anything. It also usually comes from well-established people who have great freedom in what they work on (or maybe don't judge their own work perfectly objectively).
+I hear this every now and then that people in tech should be “solving hard problems." It's one of those phrases that sounds good but doesn't really mean anything. It also usually comes from well-established people who have great freedom in what they work on (or maybe don't judge their own work perfectly objectively).
 
 ## What are hard problems?
-The implication, presumably, is that a hard problem is one which, if solved, would be transformative for its ability to positively impact the lives of many people<sup class="footnoted"></sup>. It is considered "hard" either for scientific, technical, political, or social reasons.
+The implication, presumably, is that a hard problem is one which, if solved, would be transformative for its ability to positively impact the lives of many people. It is considered “hard" either for scientific, technical, political, or social reasons<sup class="footnoted"></sup>.
 
-In practice, though, the same people writing these blog posts about how we should be solving hard problems are often very willing to give a pass to endeavors which look hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and/or technical hurdles are low.<sup class="footnoted"></sup>
+In practice, though, the same people writing these blog posts about how we should be solving hard problems are often very willing to give a pass to endeavors which look hard because their scale requires large amounts of capital or man-hours, but whose societal benefits are dubious and/or technical hurdles are low.
 
 Additionally, though I'm not a venture capitalist, it seems reasonable to assume that investors are more interested in solving problems with financial promise than ones that are difficult. Indeed, it would seem that the best investments are those the with a large payout and low level of difficulty.
 
-The point is not to dismiss problems of scale as being unworthy of being solved<sup class="footnoted"></sup>. But it's far too easy for an adherent to the cult of hard problems to look at a company that has gone through the motions of getting investors and advisors and recruiting and give it a pass because it looks like what we traditionally understand as a legitimately large undertaking.
+The point is not to dismiss problems of scale as being unworthy of being solved. But it's far too easy for an adherent to the cult of hard problems to look at a company that has gone through the motions of getting investors and advisors and recruiting and give it a pass because it looks like what we traditionally understand as a legitimately large undertaking.
 
 ## Problems are hard for different reasons
 Different problems are hard for different reasons: scientific or technical obstacles, political barriers, changing social behavior or awareness, etc.
@@ -21,27 +21,48 @@ Thus, we should start thinking of hard problems as being relative. A funded star
 ## A personal example
 In 2012, I launched [WEVTHER](http://www.wevther.com) with a friend. I had just started working for myself and was trying to keep up with finding clients, doing the work, managing projects, and adjusting to a fairly large pay cut after leaving a comfortable agency job. We built WEVTHER in our spare time with no funding or expectation of anything more than maybe making something we liked with total freedom and learning a few things along the way.
 
-WEVTHER saw a modest amount of success, but whenever anyone asked about it I was almost embarrassed. I didn't think it was big enough, important enough, or serious enough, and it felt really bad to not be proud of it.
+WEVTHER saw a modest amount of success, but whenever anyone asked about it I was almost embarrassed. I didn't think it was big enough, important enough, or serious enough, and it felt really bad to not be proud of it<sup class="footnoted"></sup>.
 
 ## Sometimes you have to solve your own problems
 I truly believe that, if given the opportunity, most people want to help other people. There are a million other things I wish I could've contributed to the world before WEVTHER. There are a million weather apps, and you're crazy if you think that I don't realize that or that I believe I can do something groundbreaking by creating another one.
 
 I had a very small problem I wanted to solve. By most measures, it's not a hard one. But with limited time and resources, it actually *was* a hard problem for me to solve.
 
+## Identifying the problem
 Additionally, an outsider's perspective of what the actual problem is might be different than the person solving the problem.
 
+### Example 1: What kind of work do you want to do?
 I had just left a job working directly with large media companies and, more than anything else, I wanted to do projects that I had control over. Paid work always has its limitations. WEVTHER was at a scale and of an aesthetic that I could never have done at that job.
 
 Michael, who built a lot of the [iOS app](https://itunes.apple.com/us/app/wevther/id723686546), wanted to learn Cocoa.
 
 When established designers give the advice "do the work you want to do more of," they're speaking from a position where that's a realistic option. Many people don't have the luxury of being picky about the work they do, though. But if you make your own problems and solve them – even if they're not hard – you can get exactly the outcome you want.
 
+My problem was being able to do the work I had in my head, and Michael's problem was wanting to learn a new programming language.
+
+### Example 2: Is there a larger problem being addressed?
+I'm not particularly interested in weather or fashion, but you would be forgiven if you guessed I was after using the app.
+
+But I am interested in how data is presented and how its presentation can effect peoples' understanding of important topics. Crunching large datasets was out of the scope of what I could do as a side-project, but putting meteorological data in terms of clothing was a good stand-in.
+
+## Don't get stuck in the bubble
+Most people don't follow tech news. They don't know about the latest startups and apps. They don't know that there are other apps that do the same thing, or if they do, they have fun downloading and trying new ones anyway.
+
+Just because you think a problem is already solved, or a waste of time, because of what the tech echo-chamber says, do it anyway.
+
+## Do small things really well
+Sometimes it's easy to think that brilliant people do brilliant work. The truth is that brilliant people in terrific circumstances do brilliant work. If you're waiting for the project that affords you plenty of time and budget to execute everything exactly how you want, you could to be waiting a long time.
+
+It's also easy to trick yourself into thinking that big campaigns come out awesome because they're shiny and expensive and if you just land one of those, you will have the power to do the work you've imagined in your head. Big projects have their own complexities, and very few of those are related to the  actual work being produced. Big projects are big, and the small things can fall between the cracks.
+
+Instead of waiting for that miracle project, solve your own small problems really well.
+
 ## Don't discourage honest work
-It's a shame to know that we might be discouraging people from building things on their own because they're told their ideas aren't worthy of being realized.
+It's a shame to know that a community might be discouraging people from building things on their own because they're told their ideas aren't worthy of being realized.
 
 At the beginning of this year, I worked with an agency on a project for a major global sportswear brand. As part of the brief, I was given a 99-page PDF that covered everything from the brand's digital strategy to fashion trends. As I flipped through, I came to a page and on it was a screenshot of WEVTHER.  After that, I never again dismissed the project.
 
-In the end, though, whether someone else thinks a project is interesting or useful is mostly irrelevant. Through WEVTHER, I have met people that have gone on to become friends, clients, and collaborators. I learned technical stuff, product stuff, and business stuff. I filmed a video because nobody would hire me to without seeing one in my portfolio. I learned how to write code with a team. I have an app in the app store under my name that came out exactly how I want, regardless of whether anyone else thinks it's good or not.
+In the end, though, whether someone else thinks a project is interesting or useful is mostly irrelevant. Through WEVTHER, I have met people that have gone on to become friends, clients, and collaborators. I learned technical stuff, product stuff, and business stuff. I filmed a video because nobody would hire me to without seeing one in my portfolio. I learned how to write code with a team. I have an app in the app store under my name that came out exactly how I want.
 
 ## Let's reframe this idea
 From now on, instead of telling people that they're wasting their time on unimportant problems, let's try this:
@@ -52,8 +73,8 @@ Everyone should solve the hardest problem they can.
 
 
 Footnotes:
-- We can probably all volunteer favorite examples of consumer software companies whose product mostly makes the already comfortable middle-class lifestyle slightly more comfortable. It's not clear that these products solve hard problems.
-- I'm sure there are other reasons I missed as to why something could be considered hard
+1. I'm sure there are other legitimate reasons as to why something could be considered hard that I'm leaving out
+2. This is not meant as a defense of the project. I truly want other people to build things without being scared of being written off.
 
 1. intro
 - lots of talk of solving hard problems
@@ -101,10 +122,3 @@ Tags: design, technology, product design
 Github URL: blah
 ----
 Footnotes:
-1. [blue](#)
-2. Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-3. Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-----
-Margin_notes:
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-- Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.

@@ -1,0 +1,48 @@
+Title: Drafts
+----
+Text:
+----
+- use-once design problems
+- 2-column layout is dead
+- quarries are hip
+- sailing west and trying to make something great
+– why did it take mobile phone screens to realize we should use the whole browser?
+– travel guides - le cool, nectar & pulse, atlas obscure, travel almanac
+– old barça pics
+– why i quit a really good job
+– iPhone photography doesn't capture motion
+– smarter iOS typing (new york, close parens)
+– email -> pre-fill "to" field
+– hidden benefits of being a good client
+– there's no key to pottery
+– beauty isn't a goal
+– intermediate fix for mobile - https://twitter.com/weightshift/status/291963887199330305
+- project scale and corporate clients
+- user vs demographic centered design
+- understanding viewport is king (play/actors on a stage metaphor)
+- not knowing software is not an excuse. it's everyone's deadline.
+- tech wish list: subway status for calendar events
+- make music louder to force intimacy for guests - "Every so often, he steals a glance at the diners, and makes a small adjustment on his iPhone, turning up the volume on the music to make people lean in if they seem hesitant to talk, and turning it down once the social mood has been established
+
+Read more: http://www.newyorker.com/reporting/2012/12/03/121203fa_fact_goodyear#ixzz2IZ3z4ZF4"
+
+- design a system not an artifact
+- scale and authorship
+- things I've been wrong about (software: ia writer)
+– favorite designers/studios "the best work"
+- the very best: retail, etc.
+- things repeatedly said about New York
+- "strategy"=thinking about what you're doing
+- we are in control of the pace of our lives (or our bosses/clients are)
+- unpolished and effortless style
+- natural language Alfred calendar and future interfaces
+- tech wish list: PSD folder/layer names to divs
+- anaerobic interfaces – vagrant/terminal and square cash/email subject
+
+Issues/volume titles:
+x talking out of turn
+- throwing stones
+- talking to myself
+- not here to make friends
+x Honesty Is the Best Policy
+- not here to be loved
