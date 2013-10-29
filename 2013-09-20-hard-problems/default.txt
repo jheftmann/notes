@@ -69,56 +69,19 @@ From now on, instead of telling people that they're wasting their time on unimpo
 
 Everyone should solve the hardest problem they can.
 
-
-
-
-Footnotes:
-1. I'm sure there are other legitimate reasons as to why something could be considered hard that I'm leaving out
-2. This is not meant as a defense of the project. I truly want other people to build things without being scared of being written off.
-
-1. intro
-- lots of talk of solving hard problems
-- it's a meaningless phrase that sounds good
-- usually comes from a very solipsistic POV
-2. what are hard problems?
-- the implication is that they're good; transformative in ways that can change the lives of many people
-- in practice, it just means anything big
-		- lots of products come to mind here but not putting anyone on blast
-3. problems are hard for different reasons
-- scale
-- time
-- money
-- technical
-- thus, we must look at hard problems as being relative
-		- i.e. a funded startup 'should' be doing something technically, socially, politically hard
-4. wevther
-- making excuses for your work
-- everyone wants to start charity:water or airbnb, but not everyone does/can/gets to
-- origin story
-4. sometimes you have to solve your own problems
-- everyone wants to help other people
-- sometimes you have to help yourself
-4. don't discourage honest work
-- relationships
-- experience
-		- acquired skills (e.g. development)
-- outcomes
-		- the limits of paid work
-4. conclusion
-- "solve the hardest problem you can"
-
-
 ----
 Title: Hard Problems
 ----
-Slug: Slug lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec.
+Slug: 
 ----
 Date: 9/20/13
 ----
-Category: 
+Category: technology, design
 ----
 Tags: design, technology, product design
 ----
-Github URL: blah
+Github URL: https://github.com/jheftmann/notes/blob/master/2013-09-20-hard-problems/default.txt
 ----
 Footnotes:
+1. I'm sure there are other legitimate reasons as to why something could be considered hard that I'm leaving out
+2. This is not meant as a defense of the project. I truly want other people to build things without being scared of being written off.
