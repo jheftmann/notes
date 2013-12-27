@@ -2,27 +2,26 @@ Text:
 
 Two incredible things I didn't know about one of my favorite designers:
 
-> “'Is this a hard choice for you?' he demanded. Yes! I cried. "Oh," he said, springing back up cheerfully. "In that case, it doesn't matter. If it's a hard decision, then there's always lots to be said on both sides, so either choice is likely to be good in its way. Hard choices are always unimportant.“
+> “When I met Fletcher and Forbes, it was obvious that we should form a partnership. So Fletcher, Forbes & Gill was formed right in the middle of the swinging '60s. As Fletcher would say, it was like shooting fish in a barrel because instantly we were the most important design office not only in England, but in Europe. It was absolutely incredible, but it started getting bigger and bigger. I decided it wasn't for me, the size of it. They changed the name to Pentagram."
 
+and
+
+>“There was a kid there [in the agency] doing paste-up. He must have been 16 or 17. He was a drummer. And I used to be a jazz pianist. There was occasionally a Christmas party or something, and I would say: 'Charlie, come on. Bring a drum and we'll entertain the people'. So we played together. I used to say to him: 'Charlie, you're not a very good designer. I know that's your dream to be a great designer, but I don't think you're going to make it. But I think you're a terrific drummer'. So one day he came to me and he said 'I'm going to take your advice. I am quitting and I just joined a band'. 'That's wonderful, Charlie'. He said 'Nah, you're not going to like it'. 'What's the matter?' Because we both loved jazz. He said 'It's not a jazz band. It's a rock band'. I said 'Oh Charlie, why are you going such a dopey thing?' He said 'Well, I don't know.' Anyway, out was The Rolling Stones. That shows you what I know."
 
 ----
-Title: Bob Gill
+Title: Bob Gill, Origins
 ----
 Slug: Two incredible things I didn't know about one of my favorite designers
 ----
-Date: 1/28/13
+Date: 12/27/13
 ----
 Category: influences
 ----
 Tags: bob gill, designers, rolling stones, pentagram
 ----
-Github URL: 
+Github URL: https://github.com/jheftmann/notes/blob/master/2013-12-27-bob-gill/default.txt
 ----
 Footnotes:
-1. [blue](#)
-2. Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-3. Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+1. Apartamento issue #11 
 ----
 Margin_notes:
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
-- Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
