@@ -1,0 +1,28 @@
+Text:
+
+Two incredible things I didn't know about one of my favorite designers:
+
+> “'Is this a hard choice for you?' he demanded. Yes! I cried. "Oh," he said, springing back up cheerfully. "In that case, it doesn't matter. If it's a hard decision, then there's always lots to be said on both sides, so either choice is likely to be good in its way. Hard choices are always unimportant.“
+
+
+----
+Title: Bob Gill
+----
+Slug: Two incredible things I didn't know about one of my favorite designers
+----
+Date: 1/28/13
+----
+Category: influences
+----
+Tags: bob gill, designers, rolling stones, pentagram
+----
+Github URL: 
+----
+Footnotes:
+1. [blue](#)
+2. Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+3. Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+----
+Margin_notes:
+- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+- Sed pretium, ligula sollicitudin [laoreet](http://www.jacobheftmann.com) viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
