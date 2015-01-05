@@ -38,6 +38,11 @@ Read more: http://www.newyorker.com/reporting/2012/12/03/121203fa_fact_goodyear#
 - natural language Alfred calendar and future interfaces
 - tech wish list: PSD folder/layer names to divs
 - anaerobic interfaces – vagrant/terminal and square cash/email subject
+- dream projects
+	- spine of apartamento
+- job titles and descriptions
+- graffiti & location specificity (ex: closed shops on Bedford Ave.)
+- computer usage and age
 
 Issues/volume titles:
 x talking out of turn
@@ -45,3 +50,4 @@ x talking out of turn
 - talking to myself
 - not here to make friends
 x Honesty Is the Best Policy
+- write like no one's reading
