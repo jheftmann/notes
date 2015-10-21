@@ -84,6 +84,6 @@ Category: Announcements
 ----
 Tags: small victories, side projects, products
 ----
-Github URL:
+Github URL: https://github.com/jheftmann/notes/tree/master/2015-10-20-re-intorducing-small-victories
 ----
 Footnotes:
