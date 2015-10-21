@@ -6,10 +6,10 @@ Instead of getting bogged down in a long and not-very-fun article arguing that p
 
 Anyway, here are a few smart things about the Tokyo Metro<sup class=footnoted>1</sup>:
 
-- **Metro cards** — There are single-ride tickets which are disposable<sup class= footnoted>2</sup>, but the re-fillable *Passmo* cards are magical: they’re sturdy, there’s no magnetic strip to wear out, they’re asymmetrical so you know which way they go in the top-up machine, and they use some proximity-based technology so you don’t need to take it out of your wallet or swipe it in any specific way to use it<sup class= footnoted>3</sup>. Bonus: they look great.
+- **Metro cards** — There are single-ride tickets which are disposable<sup class= footnoted>2</sup>, but the re-fillable *Pasmo* cards are magical: they’re sturdy, there’s no magnetic strip to wear out, they’re asymmetrical so you know which way they go in the top-up machine, and they use some proximity-based technology so you don’t need to take it out of your wallet or swipe it in any specific way to use it<sup class= footnoted>3</sup>. Bonus: they look great.
 (image: tokyo-metro-01.jpg)
 - **Traffic guidance** — I’ve had a weird dream since I moved to New York: I’ve wanted to do an experiment<sup class= footnoted>4</sup> that would measure whether marking traffic patterns on subway station floors changes behavior. Could we reduce the disaster that happens in that awkward middle area at Union Square? Or the tendency of people to walk on the inside of blind turns regardless of the direction they’re going?<br>
-The Tokyo Metro has traffic arrows, divider lines, markings for car doors, written prompts, etc. I even noticed at a few stations a physically divided entrance to stairways, sort of like an on-ramp to prevent that thing that happens when a train lets out and everyone is coming up the stairs and you’re trying to make it onto said train.<br>
+The Tokyo Metro has traffic arrows, divider lines, markings for car doors, written prompts, etc. I even noticed at a few stations a physically divided entrance to stairways, sort of like an on-ramp to prevent that thing that happens when a train lets out and everyone is coming up the stairs and you’re trying to make it down the stairs and onto said train before the doors close.<br>
 Then again, basically every other country is good at standing on the side of escalators without any prompting.
 (image: tokyo-metro-02.jpg)
 (image: tokyo-metro-03.jpg)
@@ -21,14 +21,18 @@ Then again, basically every other country is good at standing on the side of esc
 - **Numbered exits** — Station exits are numbered. It’s easy to rendervous with people, and businesses/points of interest often note the best exit to use.<br>
 - **Time between stops** — Route maps show travel-time between stops. Of course this also requires trains to run punctually.
 
-Of course there are also things like the fact that the trains are quiet, clean, and run on-time that I’ve left of this list because they can’t be accomplished through mandate alone.
+Of course there are also things like the fact that the trains are quiet, clean, and run on-time that I’ve left of this list because they can’t be accomplished through mandate alone.<sup class= footnoted>6</sup>
 
 (image: tokyo-metro-06.jpg)
+
+Oh, and the maps are big so they're not blocked by people looking at them (totally normal, to-be-expected behavior).
+
+(image: tokyo-metro-09.jpg)
 
 ----
 Title: Smart Things About the Tokyo Metro
 ----
-Slug: 
+Slug:
 ----
 Date: 1/04/15
 ----
@@ -44,3 +48,4 @@ Footnotes:
 3. I joke that MTA cards are designed specifically to expose tourists because of the just-so touchiness of the swipe
 4. Or at least a blog-post thought experiment; maybe I’ll have the motivation now
 5. Maybe I’m vain and only I do that
+6. I also think our system is charming and would hate to see it become too sterile

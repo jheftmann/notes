@@ -1,0 +1,46 @@
+Text:
+
+##### The problem
+
+Everyone gets a lot of emails. On a loose team, [especially one that’s sometimes spread across multiple locations](http://www.at-elier.org), it's difficult to make sure that everyone has visibility into those communications while keeping the number of emails to a minimum. If we were three people and had this issue, we assumed it could only get worse the bigger a team got.
+
+##### An idea
+
+We started using Slack a couple of months back and it’s mostly worked really well for us in cutting down on internal emails. We thought there might also be a way to bend Slack to help with external emails too.
+
+##### Reaching towards a solution
+
+Allow me to introduce [Franke](http://www.getfranke.com):
+
+<a href="http://www.getfranke.com" target="_blank">(image: franke.jpg)</a>
+
+Franke works in a couple ways:
+
+1. When you sign up for Franke using your Slack account, we make you some custom email addresses. You can send / forward / CC or BCC Franke, and he'll sort these emails into corresponding channels.<sup class= footnoted>1</sup>
+2. You can also set up some rules for Franke to follow:
+	- Let's say you have an email address for new business leads. Franke can take anything sent to **sales@yourteam.com** and he’ll put it in the channel you tell him to.
+	- You can also have all emails from a certain URL sorted into a channel. You might want all the emails related to a project in one place, so anything from **@client.com** can go to **#client**
+
+We left a lot of room in how Franke works; we think your team will find some clever ways to use it.
+
+##### Don't care?
+
+At least go see the flying emojis.
+
+
+
+----
+Title: Franke
+----
+Slug: Sort your team's email into Slack
+----
+Date: 1/28/15
+----
+Category: Introducing
+----
+Tags: products, slack, apps, email, tools
+----
+Github URL: https://github.com/jheftmann/notes/blob/master/2015-01-28-introducing-franke/default.txt
+----
+Footnotes:
+1. Franke also looks at who sends the email so you can control who can post this way.
