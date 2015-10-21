@@ -50,10 +50,10 @@ Small Victories v1 launched in the summer of 2013. Outside of just not being abl
 	- [Document]() — Turns a text file into a nicely formatted document, and if there are multiple text files it will let you switch between them.
 	- [Presentation]() — Turn a bulleted list into a series of slides (text or images)
 
-2. V1 supported custom CSS and JavaScript but we didn’t have any in-use examples when the product launched. Nobody realized how much customizing you could do. See an in-use example of a customized version of the Feed theme here:
+2. V1 supported custom CSS and JavaScript but we didn’t have any in-use examples when the product launched. Nobody realized how much customizing you could do. See in-use examples:
 
-	- [Salon des Refuses](http://www.salondesrefus.es)
-	- Also, the [sign-up/temporary homepage](http://www.smallvictori.es) is a customized version of the [Campaign theme]().
+	- Feed theme: [Salon des Refuses](http://www.salondesrefus.es)
+	- [Campaign theme](): [sign-up/temporary homepage](http://www.smallvictori.es)
 
 	(image: sv_default_campaign.png class: full-width-ing)
 
@@ -70,6 +70,8 @@ Small Victories v1 launched in the summer of 2013. Outside of just not being abl
 We’ll slowly be sending out links to sign up, which isn’t some kind of cheesy marketing maneuver but just us making sure this thing works.
 
 We also have a lot of themes and features on the roadmap for the near future.
+
+[Sign up](http://www.smallvictori.es) or [tell us what you think](mailto:smallvictories@xxix.co).
 
 ANOTHER SMALL VICTORY.
 
