@@ -63,7 +63,7 @@ Small Victories v1 launched in the summer of 2013. Outside of just not being abl
 
 	(image: sv_theme-picker.png class: full-width-ing)
 
-5. Having time and a smart, committed team dedicated to supporting and improving the product.
+5. Having time and a [smart, committed team](http://xxix.co) dedicated to supporting and improving the product.
 
 (image: sv_shapes_blue.png)
 ## What’s next
@@ -84,6 +84,6 @@ Category: Announcements
 ----
 Tags: small victories, side projects, products
 ----
-Github URL: https://github.com/jheftmann/notes/tree/master/2015-10-20-re-intorducing-small-victories
+Github URL: https://github.com/jheftmann/notes/tree/master/2015-10-20-re-introducing-small-victories
 ----
 Footnotes:
