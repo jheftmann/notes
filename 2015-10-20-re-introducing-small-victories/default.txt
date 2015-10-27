@@ -2,36 +2,35 @@ Text:
 
 (image: sv_logo.png class: full-width-img)
 
-You can [sign up](http://www.smallvictori.es) and we’ll send you a link in the coming days to get started. By the way, the sign-up page is built on Small Victories (of course).
+Small Victories takes the contents of a Dropbox folder (or folders) and turns it into a website. Those folders live in your Dropbox in a folder called **Apps** (Dropbox makes it automatically for connected apps). Each of those folders corresponds with a website (a Small Victory, if you will).
 
-(image: sv_home.png class: full-width-ing)
-<br>
-## What is it?
-After signing in with Dropbox, Small Victories takes the contents of a Dropbox folder and turns it into a website. Those folders live in your Dropbox in a folder called **Apps** (Dropbox makes it automatically for connected apps). Each of those folders corresponds with a website (a Small Victory, if you will).
+You can just drop *things* (images, text, videos, HTML snippets, website bookmarks) into a folder and have them render on the web. Here’s what one of my site folders looks like:
 
-You can just drop *things* (images, text, videos, HTML snippets, website bookmarks) into a folder and have them render on the web. Here’s what my folder looks like:
-
-(image: sv_finder_01.png class: full-width-img)
+(image: sv_finder_01.jpg class: full-width-img)
 
 And here’s the website it makes, using the [Slideshow theme]():
 
-(image: sv_default_slideshow.png class: full-width-img)
-<br>
+(image: sv_default_slideshow.jpg class: full-width-img)
+
 There’s no CMS, uploading, publishing, servers, databases, code, or additional software required. If you have a Dropbox account (or want to make a free one), all you need is the Finder on your computer.
+
+(image: sv_home.png class: full-width-ing)
+
+[Sign up](http://www.smallvictori.es) and we’ll send you a link in the coming days to get started. By the way, the sign-up page is built on Small Victories (of course).
 <br>
 
 ### Other features
 You can write your own JavaScript and CSS, connect a custom domain, and do all that good stuff. We’ll provide some guidance when we start letting people make sites.
 
 (image: sv_shapes_yellow.png)
-## How is it different from a CMS, Dropboxed-based or otherwise?
+## How is it different from a CMS, Dropbox-based or otherwise?
 Setting up, installing, building, uploading, publishing, coding, hosting, CMSes, logging in – those are all things I didn’t want to deal with when I imagined this product.
 
 For some types of websites that process makes sense. But there are a lot of websites that: (1) you want to quickly get online to share with people; (2) fit nicely into a common pattern (“I need an email sign-up page”).
 
 I wanted to be able to make lots of websites quickly. Not precious websites, big websites, or client websites; just useful websites that I could share with people immediately.
 <br>
-### Opinions I have about managing, publishing, and hosting content
+### Some opinions I have about managing, publishing, and hosting content
 - A lot of websites follow familiar patterns that don’t need to be made from scratch, last forever, or be heavily customized.
 - A lot of easy or quick website replacements are very prescriptive about how they look (Dropbox Carousel), or very hard to customize (Tumblr).
 - To me, a CMS like Squarespace is the worst of everything: too confusing for beginners and too restrictive for experts.
@@ -41,23 +40,26 @@ I wanted to be able to make lots of websites quickly. Not precious websites, big
 ## V1: lessons learned
 Small Victories v1 launched in the summer of 2013. Outside of just not being able to invest more time in it, I made some mistakes the first time around and desperately wanted another go at what I still think is a great product:
 
-1. Even though the platform was extremely flexible, it wasn’t immediately apparent to new users. I did a bad job of showing what it could do. Most users were limited by their imaginations but I also did them no favors. This time around, we’re releasing themes with demoes to give you an idea of what you can build with SV:
+1. Even though the platform was extremely flexible, it wasn’t immediately apparent to new users. I did a bad job of showing what it could do. Most users were limited by their imaginations but I also did them no favors. This time around, we’re releasing themes with demos to give you an idea of what you can build with SV:
 
-	- [Feed]() — A moodboard-style theme for showing images, websites (drag a .webloc file into your site folder), and text snippets
-	- [Slideshow]() — Turn photos into an image grid and slideshow
-	- [Campaign]() — Add Mailchimp info to create a newsletter sign-up page
-	- [Homepage]() — Quick personal homepage
-	- [Document]() — Turns a text file into a nicely formatted document, and if there are multiple text files it will let you switch between them.
-	- [Presentation]() — Turn a bulleted list into a series of slides (text or images)
+	- [Feed](http://demo-feed.smvi.co) — A moodboard-style theme for showing images, websites (drag a .webloc file into your site folder), and text snippets
+	- [Slideshow](http://demo-slideshow.smvi.co) — Turn photos into an image grid and slideshow
+	- [Campaign](http://demo-campaign.smvi.co) — Add Mailchimp info to create a newsletter sign-up page
+	- [Homepage](http://demo-homepage.smvi.co) — Quick personal homepage
+	- [Document](http://demo-document.smvi.co) — Turns a text file into a nicely formatted document, and if there are multiple text files it will let you switch between them.
+	- [Presentation](http://demo-presentation.smvi.co) — Turn a bulleted list into a series of slides (text or images)
 
 2. V1 supported custom CSS and JavaScript but we didn’t have any in-use examples when the product launched. Nobody realized how much customizing you could do. See in-use examples:
 
 	- Feed theme: [Salon des Refuses](http://www.salondesrefus.es)
+	- Feed theme: [vis:dmcg](http://vis.dmcg.co)
 	- [Campaign theme](): [sign-up/temporary homepage](http://www.smallvictori.es)
 
 	(image: sv_default_campaign.png class: full-width-ing)
 
 3. I didn’t do a good job of explaining the how and why of the product on the homepage, so we’re going to release a more robust ‘marketing site’ when we’re ready for the public launch.
+
+	(image: sv_site_preview.png)
 
 4. I stuck to my guns too much. I wanted *everything* to be done in the Finder, but I realize now that as used to using the Finder as people are, they’re also used to *signing in* to a web service to do some level of account management. So now, some of the settings-type stuff you need to do can be done either through the finder or through a web interface.
 
@@ -71,7 +73,7 @@ We’ll slowly be sending out links to sign up, which isn’t some kind of chees
 
 We also have a lot of themes and features on the roadmap for the near future.
 
-[Sign up](http://www.smallvictori.es) or [tell us what you think](mailto:smallvictories@xxix.co).
+[Sign up](http://www.smallvictori.es) or [send a note](mailto:smallvictories@xxix.co).
 
 ANOTHER SMALL VICTORY.
 
